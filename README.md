@@ -3,7 +3,7 @@
 
   
 - 🌱 Atualmente cursando Análise Desenvolvimento de Sistemas
-- 🎒 Meu foco é o Front-End, então curto estudar: HTML, CSS, Javascript
+- 🎒 Meu foco é o Full-Stack, então curto estudar: HTML, CSS, Javascript, Node.Js
 - 😄 Pronouns: ela/dela
 
 
