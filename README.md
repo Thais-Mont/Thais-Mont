@@ -4,7 +4,7 @@
   
 - 🌱 Atualmente cursando Análise Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul;
 - 🌱 Aluna do curso Full-Stack na Blue Edtech;
-- 🎒 Curto muito o FrontEnd então as tecnologias que mais uso são: HTML, CSS, Javascript, Node.Js e AngularJS.
+- 🎒 Curto muito o FrontEnd então as tecnologias que mais uso são: HTML, CSS, Javascript, ReactJs, Ionic e AngularJS.
 - 😄 Pronouns: ela/dela
 
 <p >
